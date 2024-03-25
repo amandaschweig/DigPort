@@ -27,7 +27,7 @@ func main() {
 	}
 
 	if operacao == 1 {
-		resultado = numero1 + numero2
+		resultado = Somar(numero1, numero2)
 	} else if operacao == 2 {
 		resultado = numero1 - numero2
 	} else if operacao == 3 {
@@ -42,4 +42,8 @@ func main() {
 	}
 
 	fmt.Println("O resultado é:", resultado)
+}
+
+func Somar(num1, num2 int) int {
+	return num1 + num2
 }
