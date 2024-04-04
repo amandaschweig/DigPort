@@ -1,3 +1,8 @@
-Olá!
-Esses são meus primeiros exercícios de lógica de programação. 
-Os exercicios da pasta "logica" foram realizados nas aulas do DigPort Academy, e o exercicícios da pasta "Studying", são exercicios extras.
+Hi!
+These are my first progamming logic exercises.
+The exercises under "logica" folder, were done at the DigPort Academy class, and the exercises uder "xtra" and "studying", I made by myself just for fun.
+Hope you enjoy it!
+
+Best,
+
+Amanda :D
