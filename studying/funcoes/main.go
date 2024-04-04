@@ -1,17 +1,16 @@
-// package main: Um pacote executável que gera um arquivo binário quando compilado.
-// sinaliza ao compilador de Go que o pacote deve ser compilado como um programa autônomo.
-
+// Package main: Um pacote executável que gera um arquivo binário quando compilado.
+// Sinaliza ao compilador de Go que o pacote deve ser compilado como um programa autônomo.
 package main
 
-//libs
+// libs
 import (
 	"fmt"
+	"usuario" // Importando o pacote "usuario"
 )
 
 // Função main: A função main serve como o ponto de entrada para a execução de um programa Go.
 // Quando um programa Go é executado, o processo começa na função main do pacote main.
 // Esta função não recebe nenhum argumento e não retorna nenhum valor. Ela inicia a execução do programa e quando termina, o programa é encerrado.
-
 func main() {
 	idade := 23
 	nome := "amanda"

@@ -1,3 +1,5 @@
+//Esse exercício solicita o nome do usuário, e escaneia o mesmo para dizer "Bem vindo, 'fulano'"
+
 package main
 
 import (

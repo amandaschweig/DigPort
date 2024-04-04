@@ -1,3 +1,5 @@
+//Esse exercicio é um contador, e faz contagem regressiva e progressiva.
+
 package main
 
 import (

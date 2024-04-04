@@ -1,3 +1,5 @@
+// Esse exercicio solicita que o usuário escolha um numero e some com o numero da variavel que foi declarada por mim (6).
+
 package main
 
 import (

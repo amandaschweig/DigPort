@@ -1,3 +1,5 @@
+//Esse exercicio solicita um numero para o usuáiro, e o retorna respondendo se o numero é primo ou não.
+
 package main
 
 import (

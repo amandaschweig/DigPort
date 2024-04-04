@@ -1,3 +1,5 @@
+//Esse exercicio solicita que o usuário escolha um numero, e responde se o numero é positivo ou negativo.
+
 package main
 
 import (

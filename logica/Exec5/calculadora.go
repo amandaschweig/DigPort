@@ -1,3 +1,5 @@
+//Esse exercicio é uma calculadora, com operações de soma, divisão, subtração e multiplicação.
+
 package main
 
 import (
